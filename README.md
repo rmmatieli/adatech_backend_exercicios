@@ -33,8 +33,8 @@
 <h3>Módulos:</h3>
 
 <ul>
-    <li style="color: aqua">Lógica de Programação (em andamento)</li>
-    <li>Programação Orientada a Objetos</li>
+    <li style="color: aqua">Lógica de Programação ✅</li>
+    <li>Programação Orientada a Objetos (Em andamento)</li>
     <li>Programação Web</li>
     <li>Banco de Dados (Postgres)</li>
     <li>Testes Automatizados</li>
