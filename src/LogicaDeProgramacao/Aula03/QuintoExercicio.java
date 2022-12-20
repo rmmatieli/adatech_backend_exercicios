@@ -1,4 +1,4 @@
-package Aula03;
+package LogicaDeProgramacao.Aula03;
 
 public class QuintoExercicio {
 

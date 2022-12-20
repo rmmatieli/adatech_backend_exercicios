@@ -1,4 +1,4 @@
-package Aula05;
+package LogicaDeProgramacao.Aula05;
 
 public class OitavoExercicio {
 

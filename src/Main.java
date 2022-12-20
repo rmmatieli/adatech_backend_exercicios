@@ -1,8 +1,6 @@
-import Aula01.PrimeiroExercicio;
-import Aula01.SegundoExercicio;
-import Aula02.TerceiroExercicio;
-import Aula04.SextoExercicio;
-import Aula04.SetimoExercicio;
+import LogicaDeProgramacao.Aula02.Aula02.TerceiroExercicio;
+import LogicaDeProgramacao.Aula04.SextoExercicio;
+import LogicaDeProgramacao.Aula04.SetimoExercicio;
 
 public class Main {
     public static void main(String[] args) {

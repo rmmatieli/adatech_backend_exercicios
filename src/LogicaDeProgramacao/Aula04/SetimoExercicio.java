@@ -1,4 +1,4 @@
-package Aula04;
+package LogicaDeProgramacao.Aula04;
 
 public class SetimoExercicio {
 
